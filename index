@@ -1,1 +1,6 @@
 echo "# themisthree" >> README.md
+    <body>
+       <p>HTML background music test</p>
+       <embed src="bgsound.mp3" autostart="true">
+    </body>
+     <embed src="bgsound.mp3" autostart="true" width="400" height="20">  
