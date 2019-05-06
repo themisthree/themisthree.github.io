@@ -1872,3 +1872,50 @@ body {
 .cid-rpFnqImITD H2 {
   color: #efefef;
 }
+.cid-rpJOesAWRC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-rpJOesAWRC .card-box {
+  padding: 1rem 2rem 2rem;
+}
+.cid-rpJOesAWRC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rpJOesAWRC p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rpJOesAWRC .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rpJOesAWRC .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rpJOesAWRC .mbr-text {
+  color: #767676;
+}
+.cid-rpJOesAWRC .card-wrapper {
+  height: 100%;
+  background: #0f0e0e;
+}
+@media (max-width: 767px) {
+  .cid-rpJOesAWRC .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rpJOesAWRC H2 {
+  color: #efefef;
+  text-align: center;
+}
+.cid-rpJOesAWRC .mbr-section-subtitle {
+  text-align: center;
+  color: #efefef;
+}
+.cid-rpJOesAWRC .card-title {
+  color: #efefef;
+}
