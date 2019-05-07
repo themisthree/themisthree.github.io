@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "T-3 (template 1)",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -417,7 +417,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "the home page",
+        "meta_descr": "Home apge of THEMIS-3",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
