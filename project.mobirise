@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "T-3 (template 1)",
-    "currentPage": "page6.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -236,7 +236,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Signing up for newfeed",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -854,7 +854,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Operation T-3",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
