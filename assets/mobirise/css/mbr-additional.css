@@ -1919,3 +1919,50 @@ body {
   padding-bottom: 15px;
   background-color: #0f0e0e;
 }
+.cid-rpJOesAWRC {
+  padding-top: 135px;
+  padding-bottom: 135px;
+}
+.cid-rpJOesAWRC .card-box {
+  padding: 1rem 2rem 2rem;
+}
+.cid-rpJOesAWRC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rpJOesAWRC p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rpJOesAWRC .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rpJOesAWRC .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rpJOesAWRC .mbr-text {
+  color: #767676;
+}
+.cid-rpJOesAWRC .card-wrapper {
+  height: 100%;
+  background: #149dcc;
+}
+@media (max-width: 767px) {
+  .cid-rpJOesAWRC .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rpJOesAWRC H2 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rpJOesAWRC .mbr-section-subtitle {
+  text-align: center;
+  color: #efefef;
+}
+.cid-rpJOesAWRC .card-title {
+  color: #efefef;
+}
