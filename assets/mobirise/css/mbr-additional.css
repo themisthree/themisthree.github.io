@@ -1963,3 +1963,106 @@ body {
   padding-bottom: 15px;
   background-color: #0f0e0e;
 }
+.cid-rpKdC07kje {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-rpKdC07kje .mbr-section-subtitle {
+  color: #efefef;
+  font-weight: 300;
+}
+.cid-rpKdC07kje .number-wrap {
+  color: #232323;
+  border-color: rgba(255, 255, 255, 0.15);
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px 13px 10px;
+  margin: 0;
+  min-width: 118px;
+  border-radius: 2px;
+  max-width: 100%;
+}
+.cid-rpKdC07kje .number {
+  font-style: normal;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: -2px;
+  font-size: 55px;
+  word-spacing: 0;
+  line-height: 1.3;
+  color: #232323;
+}
+.cid-rpKdC07kje .period {
+  display: block;
+  padding-top: 2px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cid-rpKdC07kje .dot {
+  position: absolute;
+  top: -10px;
+  right: -1em;
+  width: 1em;
+  display: block;
+  font-size: 55px;
+  height: 83%;
+  overflow: hidden;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 89.65px;
+  text-transform: none;
+  letter-spacing: 0;
+  word-spacing: 0;
+  color: #232323;
+}
+.cid-rpKdC07kje .countdown-cont {
+  background: linear-gradient(45deg, #efefef, #ffffff);
+  max-width: 700px;
+  border-radius: 3px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rpKdC07kje .dot {
+    display: none;
+  }
+  .cid-rpKdC07kje .col-xs-3 {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 25%;
+    flex: 0 0 25%;
+  }
+  .cid-rpKdC07kje .number-wrap {
+    min-width: auto;
+  }
+}
+@media (max-width: 576px) {
+  .cid-rpKdC07kje .row {
+    flex-wrap: nowrap;
+  }
+  .cid-rpKdC07kje .number {
+    white-space: nowrap;
+  }
+}
+@media (max-width: 440px) {
+  .cid-rpKdC07kje .number {
+    font-size: 30px;
+  }
+  .cid-rpKdC07kje .period {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rpKdC07kje .number {
+    font-size: 20px;
+  }
+  .cid-rpKdC07kje .period {
+    font-size: 0.6rem;
+  }
+}
+.cid-rpKdC07kje H4 {
+  color: #232323;
+  text-align: center;
+}
+.cid-rpKdC07kje B {
+  color: #efefef;
+}
