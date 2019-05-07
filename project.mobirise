@@ -692,7 +692,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "Warface (gallery&gt;warface)",
+        "title": "Warface (gallery>warface)",
         "order": 2
       },
       "components": [
