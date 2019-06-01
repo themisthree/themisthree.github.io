@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "T-3 (template 1)",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "versionFirst": "4.9.7",
     "siteFonts": [],
     "uniqCompNum": 6,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/t3-large-128x72.png",
     "noImageResize": ""
@@ -46,7 +46,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Audio stream>Soundcloud",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -74,7 +74,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Warface (gallery>warface)",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -155,7 +155,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "FIFA 19 (gallery>FIFA 19)",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -236,7 +236,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Signing up for newfeed",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -288,7 +288,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Operation T-3",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -983,6 +983,14 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Discord Status",
+        "order": 2
+      },
+      "components": []
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Schedule",
         "order": 1
       },
       "components": []
