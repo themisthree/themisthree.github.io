@@ -1537,31 +1537,31 @@ body {
 .cid-rsgARAIaBO {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #232323;
+  background-color: #c7c7c7;
 }
 .cid-rsgARAIaBO P {
   color: #767676;
 }
 .cid-rsgARAIaBO .mbr-text,
 .cid-rsgARAIaBO .mbr-section-btn {
-  color: #efefef;
+  color: #232323;
 }
 .cid-rsgARAIaBO H1 {
-  color: #efefef;
+  color: #232323;
 }
 .cid-rsgzMVS8YE {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/warface-4-wallpaper-1920x1200.jpg");
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/banner-web-2000x1208.jpg");
 }
 .cid-rsgzMVS8YE .mbr-section-subtitle {
-  color: #efefef;
+  color: #232323;
   text-align: center;
   font-weight: 300;
 }
 .cid-rsgzMVS8YE .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #0f0e0e;
+  background: #232323;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1598,7 +1598,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #0f0e0e;
+  background-color: #232323;
   top: 20px;
   margin-left: -30px;
 }
@@ -1617,7 +1617,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #0f0e0e;
+  background-color: #232323;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -1642,7 +1642,7 @@ body {
 }
 .cid-rsgzMVS8YE .mbr-section-title {
   text-align: center;
-  color: #efefef;
+  color: #232323;
 }
 .cid-rsgzMVS8YE .mbr-timeline-title {
   color: #efefef;
