@@ -1552,16 +1552,16 @@ body {
 .cid-rsgzMVS8YE {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/banner-web-2000x1208.jpg");
+  background-image: url("../../../assets/images/chapter-1-exordium-ep1a-2000x1208.jpg");
 }
 .cid-rsgzMVS8YE .mbr-section-subtitle {
-  color: #232323;
+  color: #efefef;
   text-align: center;
   font-weight: 300;
 }
 .cid-rsgzMVS8YE .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #232323;
+  background: #0f0e0e;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1598,7 +1598,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #232323;
+  background-color: #0f0e0e;
   top: 20px;
   margin-left: -30px;
 }
@@ -1617,7 +1617,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #232323;
+  background-color: #0f0e0e;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -1642,7 +1642,7 @@ body {
 }
 .cid-rsgzMVS8YE .mbr-section-title {
   text-align: center;
-  color: #232323;
+  color: #efefef;
 }
 .cid-rsgzMVS8YE .mbr-timeline-title {
   color: #efefef;
