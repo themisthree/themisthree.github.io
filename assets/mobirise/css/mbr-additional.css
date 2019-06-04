@@ -2125,43 +2125,34 @@ body {
 .cid-rsnQXyzGqn .card {
   padding-bottom: 1.5rem;
 }
-.cid-rsnTthNnBH {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rsnWT22ZCk {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/banner-web-2000x1208.jpg");
 }
-.cid-rsnTthNnBH h3 {
+.cid-rsnWT22ZCk h3 {
   text-align: center;
+}
+.cid-rsnWT22ZCk .mbr-section-subtitle {
+  color: #ffffff;
   font-weight: 300;
 }
-.cid-rsnTthNnBH .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
+.cid-rsnWT22ZCk .mbr-content-text {
+  color: #767676;
 }
-.cid-rsnTthNnBH .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-rsnTthNnBH .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
+.cid-rsnWT22ZCk .card {
   word-wrap: break-word;
 }
-.cid-rsnTthNnBH ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
+.cid-rsnWT22ZCk .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
-.cid-rsnTthNnBH path {
-  stroke: #0f0e0e;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rsnTthNnBH .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
-}
-.cid-rsnTthNnBH .mbr-section-title {
+.cid-rsnWT22ZCk .mbr-section-title {
   color: #ffffff;
 }
-.cid-rsnTthNnBH H4 {
+.cid-rsnWT22ZCk H3 {
+  color: #ffffff;
+}
+.cid-rsnWT22ZCk H4 {
   color: #ffffff;
 }
