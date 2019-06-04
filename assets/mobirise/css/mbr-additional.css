@@ -2099,3 +2099,29 @@ body {
   padding-bottom: 15px;
   background-color: #0f0e0e;
 }
+.cid-rsnQXyzGqn {
+  background-image: url("../../../assets/images/episode-1-hq-2000x1208.jpg");
+}
+.cid-rsnQXyzGqn .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rsnQXyzGqn .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rsnQXyzGqn .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rsnQXyzGqn .mbr-text {
+  color: #ffffff;
+}
+.cid-rsnQXyzGqn .card {
+  padding-bottom: 1.5rem;
+}
