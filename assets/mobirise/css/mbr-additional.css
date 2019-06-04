@@ -2125,3 +2125,43 @@ body {
 .cid-rsnQXyzGqn .card {
   padding-bottom: 1.5rem;
 }
+.cid-rsnTthNnBH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/banner-web-2000x1208.jpg");
+}
+.cid-rsnTthNnBH h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rsnTthNnBH .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rsnTthNnBH .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rsnTthNnBH .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rsnTthNnBH ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rsnTthNnBH path {
+  stroke: #0f0e0e;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rsnTthNnBH .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
+.cid-rsnTthNnBH .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rsnTthNnBH H4 {
+  color: #ffffff;
+}
