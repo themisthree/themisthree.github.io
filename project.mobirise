@@ -1025,7 +1025,7 @@
     "page8.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Placeholder Operation landing page",
+        "title": "Operations page",
         "order": 1
       },
       "components": [
