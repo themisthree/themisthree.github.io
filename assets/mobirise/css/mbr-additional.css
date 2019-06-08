@@ -1781,6 +1781,12 @@ body {
   display: flex;
   flex-direction: column-reverse;
 }
+.cid-rsPmFG0PfG .mbr-timeline-text {
+  text-align: center;
+}
+.cid-rsPmFG0PfG .mbr-timeline-title {
+  text-align: center;
+}
 .cid-rpI5B1CwZU .navbar {
   padding: .5rem 0;
   background: #333333;
