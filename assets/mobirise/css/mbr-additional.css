@@ -2265,18 +2265,34 @@ body {
 .cid-rsFPldL2mB {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/chapter-1-exordium-2000x1208.jpg");
+  background-image: url("../../../assets/images/sharpshooter-shadow-1920x1080.jpg");
 }
 .cid-rsFPldL2mB P {
   color: #767676;
 }
 .cid-rsFPldL2mB H1 {
   color: #efefef;
+  text-align: center;
 }
 .cid-rsFPldL2mB .mbr-text,
 .cid-rsFPldL2mB .mbr-section-btn {
   text-align: center;
   color: #ffffff;
+}
+.cid-rt9mvUqxcj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/bg-2000x1208.jpg");
+}
+.cid-rt9mvUqxcj P {
+  color: #767676;
+}
+.cid-rt9mvUqxcj H1 {
+  color: #efefef;
+}
+.cid-rt9mvUqxcj .mbr-text,
+.cid-rt9mvUqxcj .mbr-section-btn {
+  color: #efefef;
 }
 .cid-rsnWT22ZCk {
   padding-top: 120px;
